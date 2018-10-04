@@ -1,3 +1,4 @@
+___________________________________
 
 ### Ideas for the future:
 
@@ -5,6 +6,8 @@
 2. Fireworks
 3. Save image to PC
 4. Login system with PHP
+
+___________________________________
 
 
 ### Day 1: November 1st 2018
